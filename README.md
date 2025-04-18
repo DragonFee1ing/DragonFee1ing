@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://media.giphy.com/media/0kOmLN09priuU4uZOp/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
 <!--
 **DragonFee1ing/DragonFee1ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
