@@ -31,6 +31,12 @@ __To see the easter egg, press on the keyboard:__
 <kbd>ALT</kbd> + <kbd>F4</kbd>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Spicy+Rice&pause=1000&color=F0D0FF&center=true&width=435&lines=Dragon+Feeling+with+%F0%9F%92%9C)](https://git.io/typing-svg)
+
+
+
+
+
+
 <!--
 **DragonFee1ing/DragonFee1ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
